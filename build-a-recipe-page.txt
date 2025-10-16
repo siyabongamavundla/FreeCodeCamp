@@ -1,0 +1,33 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Siya's Recipe</title>
+    <meta charset="utf-8"></meta>
+  </head>
+
+  <body>
+    <h1>Recipe For Fullstack Success</h1>
+    <p>Intro: Study hard maan. . . study hard. . . </p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Test 1</li>
+      <li>Test 2</li>
+      <li>Test 3</li>
+      <li>Test 4</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Test 1</li>
+      <li>Test 2</li>
+      <li>Test 3</li>
+      <li>Test 4</li>
+    </ol>
+    <Img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Image of milk and eggs - used for recipe"/>
+  </body>
+</html>
+
+** end of index.html **
+
